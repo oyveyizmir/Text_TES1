@@ -76,6 +76,7 @@ public class Game {
                 break;
             }
         }
+
         if (item == null)
             System.out.println("cannot find " + name + " in the room");
         else {
